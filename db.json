@@ -7,14 +7,14 @@
   "hosts": [
     { "id": 1, "host": "host12", "opsId": 1 },
     { "id": 2, "host": "host12", "opsId": 1 },
-	{ "id": 3, "host": "host21", "opsId": 2 },
-	{ "id": 4, "host": "host31", "opsId": 3 }
+    { "id": 3, "host": "host21", "opsId": 2 },
+    { "id": 4, "host": "host31", "opsId": 3 }
   ],
   "inputs": [
     { "id": 1, "name": "A", "hostId": 1 },
     { "id": 3, "name": "B", "hostId": 1 },
-	{ "id": 4, "name": "A", "hostId": 2 },
-	{ "id": 5, "name": "A", "hostId": 3 },
-	{ "id": 6, "name": "A", "hostId": 4 }
+    { "id": 4, "name": "A", "hostId": 2 },
+    { "id": 5, "name": "A", "hostId": 3 },
+    { "id": 6, "name": "A", "hostId": 4 }
   ]
 }
